@@ -140,19 +140,19 @@ int loadContent() {
     texture_4->bind(4);
 
     texture_5 = new Texture(5);
-    texture_5->load("res/models/F1_lowpoly/texture/Rubber 0390.jpg");
+    texture_5->load("res/models/F1_lowpoly/texture/Rubber_0390.jpg");
     texture_5->bind(5);
 
     texture_6 = new Texture(6);
-    texture_6->load("res/models/F1_lowpoly/texture/Rubber 0390.jpg");
+    texture_6->load("res/models/F1_lowpoly/texture/Rubber_0390.jpg");
     texture_6->bind(6);
 
     texture_7 = new Texture(7);
-    texture_7->load("res/models/F1_lowpoly/texture/Rubber 0390.jpg");
+    texture_7->load("res/models/F1_lowpoly/texture/Rubber_0390.jpg");
     texture_7->bind(7);
 
     texture_8 = new Texture(8);
-    texture_8->load("res/models/F1_lowpoly/texture/Rubber 0390.jpg");
+    texture_8->load("res/models/F1_lowpoly/texture/Rubber_0390.jpg");
     texture_8->bind(8);
 
     return true;

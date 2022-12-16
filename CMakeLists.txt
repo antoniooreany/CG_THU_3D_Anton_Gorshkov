@@ -26,15 +26,11 @@ add_executable(${PROJECT_NAME}
 	${SOURCE_FILES}
 	res/shaders/Basic.vert
 	res/shaders/Basic.frag
-#        res/models/Virus/p.png
-#        res/models/Virus/p_diff.png
-#        res/models/Virus/p_norm.png
-#        res/models/Virus/p_rough.png
-#        res/models/Virus/l.png
-#        res/models/Virus/l_diff.png
-#        res/models/Virus/l_norm.png
-#        res/models/Virus/l_rough.png
 		res/models/F1_lowpoly/texture/FabricAnimalBlueVinyl001/FabricAnimalBlueVinyl001_NRM_2K.png
+		res/models/F1_lowpoly/texture/jeans-1161035_1920.png
+		res/models/F1_lowpoly/texture/l.png
+		res/models/F1_lowpoly/texture/l_diff.png
+		res/models/F1_lowpoly/texture/Rubber_0390.jpg
 		)
 
 # We need a CMAKE_DIR with some code to find external dependencies
