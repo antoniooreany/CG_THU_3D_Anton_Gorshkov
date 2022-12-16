@@ -1,0 +1,5 @@
+C:/Users/GAS_Dell_XPS9310/CLionProjects/CG_THU_3D_Anton_Gorshkov/cmake-build-debug/CMakeFiles/OpenGLExample.dir
+C:/Users/GAS_Dell_XPS9310/CLionProjects/CG_THU_3D_Anton_Gorshkov/cmake-build-debug/CMakeFiles/STB_IMAGE.dir
+C:/Users/GAS_Dell_XPS9310/CLionProjects/CG_THU_3D_Anton_Gorshkov/cmake-build-debug/CMakeFiles/GLAD.dir
+C:/Users/GAS_Dell_XPS9310/CLionProjects/CG_THU_3D_Anton_Gorshkov/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GAS_Dell_XPS9310/CLionProjects/CG_THU_3D_Anton_Gorshkov/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+C:\Users\GAS_Dell_XPS9310\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/GAS_Dell_XPS9310/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.7571.171/bin/ninja/win/ninja.exe -G Ninja -S C:\Users\GAS_Dell_XPS9310\CLionProjects\CG_THU_3D_Anton_Gorshkov -B C:\Users\GAS_Dell_XPS9310\CLionProjects\CG_THU_3D_Anton_Gorshkov\cmake-build-debug
+-- GLM_INCLUDE_DIR = C:/Users/GAS_Dell_XPS9310/CLionProjects/CG_THU_3D_Anton_Gorshkov/include
+-- GLM included at C:/Users/GAS_Dell_XPS9310/CLionProjects/CG_THU_3D_Anton_Gorshkov/include
+-- Found GLFW3 in C:/Users/GAS_Dell_XPS9310/CLionProjects/CG_THU_3D_Anton_Gorshkov/include
+-- Found ASSIMP: C:/Users/GAS_Dell_XPS9310/CLionProjects/CG_THU_3D_Anton_Gorshkov/lib/assimp.lib
+-- Found ASSIMP in C:/Users/GAS_Dell_XPS9310/CLionProjects/CG_THU_3D_Anton_Gorshkov/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/GAS_Dell_XPS9310/CLionProjects/CG_THU_3D_Anton_Gorshkov/cmake-build-debug
