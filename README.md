@@ -17,3 +17,5 @@ https://github.com/Shot511/OpenGLSampleCmake
 The idea and some code fragments was taken from: 
 https://github.com/spyridon-ntokos/CG_THU_3D
 
+The source-code of the project: 
+https://github.com/antoniooreany/CG_THU_3D_Anton_Gorshkov
