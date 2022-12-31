@@ -53,8 +53,8 @@ Texture *texture_8 = nullptr;
 glm::vec3 cam_position = glm::vec3(0.0f, 12.0f, 12.0f); // TODO changed camera position in an appropriate way
 glm::vec3 cam_look_at = glm::vec3(0.0f, 0.0f, 0.0f);
 glm::vec3 cam_up = glm::vec3(0.0f, 1.0f, 0.0f);
-// TODO corrected downloaded object in order to recreate the whole car, not only one weel
-glm::mat4 world_matrix = glm::mat4(1.0f); // TODO what is it?
+// TODO corrected downloaded object in order to recreate the whole car, not only one wheel
+glm::mat4 world_matrix = glm::mat4(1.0f);
 glm::mat4 view_matrix = glm::lookAt(cam_position, cam_look_at, cam_up);
 glm::mat4 projection_matrix = glm::perspectiveFov(glm::radians(60.0f), float(WINDOW_WIDTH), float(WINDOW_HEIGHT), 0.1f,
                                                   200.0f); // TODO blinds
@@ -110,7 +110,7 @@ bool init() {
 
 int loadContent() {
 
-    mesh = new Model("res/models/F1_lowpoly/F1.obj"); // TODO works somehow: F1 car with a strange texture
+    mesh = new Model("res/models/F1_lowpoly/F1.obj"); // TODO works: F1 car with texture
 
     // Create and apply basic shaders
     shader = new Shader("Basic.vert", "Basic.frag");
